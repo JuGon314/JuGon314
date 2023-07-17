@@ -35,8 +35,8 @@
 ### My Statistics
   
  <br>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuGon314&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuGon314&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuGon314&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuGon314&layout=compact&langs_count=7&theme=dracula"/>
 
 ##
 
@@ -44,6 +44,6 @@
 
  <br>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuGon314&theme=nightowl&hide_border=falso&card_width=500)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuGon314&theme=dracula&hide_border=falso&card_width=500)](https://git.io/streak-stats)
  
 </div>
