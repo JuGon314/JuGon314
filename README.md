@@ -1,6 +1,6 @@
  <div align="center">    
    
-  <img width="450" alt="Cabeçalho_GitHub-removebg-preview" src="https://github.com/JuGon314/JuGon314/assets/112823001/690458c1-3665-4c1a-88a2-b7ff237ff610">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=4500&pause=1000&color=FF6E96&center=true&vCenter=true&width=500&lines=Hey+there!+What's+up%3F%F0%9F%98%81;I'm+Juliana+and+I'm+from+Brazil;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
  
  </div>
 <div align="center">
@@ -45,5 +45,7 @@
  <br>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuGon314&theme=dracula&hide_border=falso&card_width=500)](https://git.io/streak-stats)
+
+
  
 </div>
