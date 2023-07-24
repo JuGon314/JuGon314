@@ -1,14 +1,6 @@
  <div align="center">    
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=4500&pause=1000&color=FF6E96&center=true&vCenter=true&width=500&lines=Hey+there!+What's+up%3F%F0%9F%98%81;I'm+Juliana+and+I'm+from+Brazil;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
- 
- </div>
-<div align="center">
-   <br>
-   <a href = "mailto:julianasgoncalves314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
-   <a href="https://www.linkedin.com/in/ju-goncalves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br>
- </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=35&duration=1750&pause=1000&color=FF6E96&center=true&width=650&height=75&lines=Hi+there!+How's+it+going%3F;I'm+Juliana%2C+FullStack+developer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
  
 <br>
 <div style="display: inline_block">
@@ -42,10 +34,18 @@
 
 ### My GitHub's streak
 
- <br>
-
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuGon314&theme=dracula&hide_border=falso&card_width=500)](https://git.io/streak-stats)
 
-
- 
 </div>
+
+
+<div align="center">
+
+##
+
+### Contact me
+
+   <a href = "mailto:julianasgoncalves314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ju-goncalves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+ </div>
