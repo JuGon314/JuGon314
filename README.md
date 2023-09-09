@@ -5,7 +5,7 @@
 <br>
 <div style="display: inline_block">
   <div align="center" >
-    🎓 Currently pursuing Full Stack development at Programadores do Amanhã
+    🎓 FullStack development student
  </div>
   
 ##  
