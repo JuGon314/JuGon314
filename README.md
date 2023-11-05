@@ -4,9 +4,6 @@
  
 <br>
 <div style="display: inline_block">
-  <div align="center" >
-    🎓 FullStack development student
- </div>
   
 ##  
 <div align="center"> 
